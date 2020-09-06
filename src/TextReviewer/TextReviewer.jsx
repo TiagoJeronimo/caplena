@@ -17,7 +17,7 @@ const TextReviewer = () => {
 
   return (
     <div className={scss['p-textReviewer']}>
-      <TextAnalyzer textData={texts[textIndex]} onReview={handleTextReview} />
+      {texts[textIndex] && <TextAnalyzer textData={texts[textIndex]} onReview={handleTextReview} />}
       <TextList reviewedTexts={reviewedTexts} />
     </div>
   );
