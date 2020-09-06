@@ -1,0 +1,22 @@
+const texts = [{ text: 'Face to face asymmetric hierarchy', sentiment: 'positive' },
+{ text: 'Triple-buffered background paradigm', sentiment: 'positive' },
+{ text: 'Reverse-engineered interactive methodology', sentiment: 'negative' },
+{ text: 'Triple-buffered incremental open architecture', sentiment: 'positive' },
+{ text: 'Re-contextualized static neural-net', sentiment: 'positive' },
+{ text: 'Organized background algorithm', sentiment: 'negative' },
+{ text: 'Re-contextualized incremental Graphic Interface', sentiment: 'neutral' },
+{ text: 'Synchronised mission-critical info-mediaries', sentiment: 'positive' },
+{ text: 'Polarised grid-enabled encoding', sentiment: 'neutral' },
+{ text: 'De-engineered 24/7 capability', sentiment: 'neutral' },
+{ text: 'Reverse-engineered intangible open system', sentiment: 'negative' },
+{ text: 'Seamless asynchronous moratorium', sentiment: 'negative' },
+{ text: 'Mandatory 3rd generation leverage', sentiment: 'neutral' },
+{ text: 'Centralized real-time artificial intelligence', sentiment: 'neutral' },
+{ text: 'Open-architected responsive focus group', sentiment: 'neutral' },
+{ text: 'Phased clear-thinking hub', sentiment: 'negative' },
+{ text: 'Multi-layered context-sensitive forecast', sentiment: 'positive' },
+{ text: 'User-friendly radical moderator', sentiment: 'neutral' },
+{ text: 'Optimized transitional system engine', sentiment: 'negative' },
+{ text: 'Profound needs-based analyzer', sentiment: 'negative' }];
+
+export default texts;
